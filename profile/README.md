@@ -40,7 +40,7 @@ The layout stays small on purpose: one desk, one list, one path back. Extra fram
 
 ## What It Looks Like
 
-![Clickteam Fusion 2.5 Developer](https://www.clickteam.com/wp-content/uploads/cf25-ss-7.jpg)
+![Clickteam Fusion 2.5 Developer]([https://www.clickteam.com/wp-content/uploads/cf25-ss-7.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCbRwBUjZ65u7Qqsg1ZESjlEy7i45k2JD5z3ZFw1TXCrAgHEiT9xMIjYh&s=10))
 
 ---
 
